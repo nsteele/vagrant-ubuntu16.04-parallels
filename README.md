@@ -3,7 +3,6 @@
 In top-level of this repository run
 
 ```
-vagrant init
 vagrant up --provider parallels
 ```
 
